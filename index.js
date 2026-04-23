@@ -1,0 +1,1 @@
+console.log("hello"); class AdaptLearn { constructor() { this.x = 1; } }
